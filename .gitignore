@@ -1,0 +1,14 @@
+*.so
+*.pyc
+*.tar
+*.tar.xz
+output
+tensorboard
+lib/build
+lib/pycocotools
+lib/pycocotools/_mask.c
+lib/pycocotools/_mask.so
+.idea
+VOCdevkit*
+plasticbag_dataset/*
+!plasticbag_dataset/integrate_pascal_voc.py
